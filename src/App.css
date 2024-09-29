@@ -1,0 +1,19 @@
+.navbar-nav .nav-item .nav-link:hover {
+    color: black;
+    background-color: #f0f0f0;
+}
+
+.navbar-nav {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-brand {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+/* body {
+    background-image: url("/src/assets/wallpaperflare.com_wallpaper.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  } */
